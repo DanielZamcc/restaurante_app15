@@ -1,0 +1,14 @@
+[
+    {
+        "usuario": "admin",
+        "clave": "1234",
+        "nombre": "Administrador",
+        "correo": "admin@restaurante.local"
+    },
+    {
+        "usuario": "invitado",
+        "clave": "2026",
+        "nombre": "Usuario Invitado",
+        "correo": "invitado@restaurante.local"
+    }
+]

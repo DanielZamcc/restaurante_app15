@@ -1,0 +1,86 @@
+[
+    {
+        "codigo": "P001",
+        "nombre": "Hamburguesa clásica",
+        "precio": 5.5,
+        "categoria": "Plato fuerte",
+        "stock": 19
+    },
+    {
+        "codigo": "P002",
+        "nombre": "Pizza personal",
+        "precio": 6.75,
+        "categoria": "Plato fuerte",
+        "stock": 15
+    },
+    {
+        "codigo": "P003",
+        "nombre": "Limonada",
+        "precio": 1.5,
+        "categoria": "Bebida",
+        "stock": 30
+    },
+    {
+        "codigo": "P004",
+        "nombre": "Postre de chocolate",
+        "precio": 2.75,
+        "categoria": "Postre",
+        "stock": 12
+    },
+    {
+        "codigo": "P005",
+        "nombre": "ENCEBOLLADO NORMAL",
+        "precio": 3.0,
+        "categoria": "SOPA",
+        "stock": 9
+    },
+    {
+        "codigo": "P006",
+        "nombre": "GUATITA",
+        "precio": 3.0,
+        "categoria": "SECO",
+        "stock": 4
+    },
+    {
+        "codigo": "P007",
+        "nombre": "CEVICHE",
+        "precio": 7.0,
+        "categoria": "SOPA",
+        "stock": 7
+    },
+    {
+        "codigo": "P008",
+        "nombre": "ENCEBOLLADO MIXTO",
+        "precio": 5.0,
+        "categoria": "SOPA",
+        "stock": 9
+    },
+    {
+        "codigo": "P005",
+        "nombre": "GUTAENCEBOLLADO",
+        "precio": 3.5,
+        "categoria": "COMBO",
+        "stock": 10
+    },
+    {
+        "codigo": "P006",
+        "nombre": "ALUERZO",
+        "precio": 3.0,
+        "categoria": "COMBO",
+        "stock": 10
+    },
+    {
+        "codigo": "P007",
+        "nombre": "ALUERZO 2",
+        "precio": 3.0,
+        "categoria": "COMBO",
+        "stock": 10
+    },
+    {
+        "codigo": "P008",
+        "nombre": "ALUERZO 3",
+        "precio": 3.0,
+        "categoria": "COMBO",
+        "stock": 10
+    }
+]
